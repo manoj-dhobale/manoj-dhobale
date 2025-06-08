@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/DevOps-Leader-success?style=for-the-badge&logo=azuredevops)]()
 [![](https://img.shields.io/badge/FinOps-Certified-yellow?style=for-the-badge)]()
 [![](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-blueviolet?style=for-the-badge&logo=cloud)]()
-[![](https://img.shields.io/badge/YouTube-DevOpsOra-red?style=for-the-badge&logo=youtube)](https://youtube.com/yourchannel)
+
 
 ---
 ## 🔧 What I Do
