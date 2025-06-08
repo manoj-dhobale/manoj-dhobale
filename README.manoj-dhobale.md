@@ -20,11 +20,7 @@
 
 🚧 Repositories coming soon with production-ready examples:
 
-- `azure-devops-pipelines`: Real-world Azure DevOps pipelines for apps, APIs & infrastructure  
-- `terraform-enterprise-blueprints`: Scalable Terraform IaC for multi-cloud deployment  
-- `aks-helm-template`: Helm chart deployments for microservices on AKS with autoscaling  
-- `azure-finops-dashboard`: Track & optimize cloud spend using Azure-native tools  
-- `genai-smartsearch`: Azure OpenAI-based patient info summarization using Cognitive Search  
+- `TBD 
 
 ---
 
